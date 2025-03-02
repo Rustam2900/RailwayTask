@@ -1,0 +1,10 @@
+2025-03-02 15:42:37,714 - railway.management.commands.run_bot - INFO - Buyruqlar o'rnatildi.
+2025-03-02 15:42:37,715 - railway.management.commands.run_bot - INFO - Router ulandi.
+2025-03-02 15:42:37,792 - root - INFO - Hamma foydalanuvchilarga bot ishga tushgani haqida xabar yuborildi.
+2025-03-02 15:42:37,793 - aiogram.dispatcher - INFO - Start polling
+2025-03-02 15:42:37,901 - aiogram.dispatcher - INFO - Run polling for bot @RailwayTaskBot id=8018122376 - 'RailwayTaskBot'
+2025-03-02 15:42:45,546 - aiogram.event - INFO - Update id=769400380 is handled. Duration 467 ms by bot id=8018122376
+2025-03-02 15:43:39,654 - aiogram.event - INFO - Update id=769400381 is handled. Duration 343 ms by bot id=8018122376
+2025-03-02 15:43:45,433 - aiogram.event - INFO - Update id=769400382 is handled. Duration 141 ms by bot id=8018122376
+2025-03-02 15:43:48,521 - aiogram.event - INFO - Update id=769400383 is handled. Duration 202 ms by bot id=8018122376
+2025-03-02 15:43:52,372 - aiogram.event - INFO - Update id=769400384 is handled. Duration 125 ms by bot id=8018122376
