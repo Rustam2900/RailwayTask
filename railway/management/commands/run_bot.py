@@ -4,9 +4,9 @@ from aiogram import Bot, Dispatcher
 from asgiref.sync import sync_to_async
 from django.core.management import BaseCommand
 
-from message.headers import router
-from message.management.commands.commands import commands
-from message.models import BotAdmin
+from railway.headers import router
+from railway.management.commands.commands import commands
+from railway.models import BotAdmin
 
 logging.basicConfig(
     level=logging.INFO,
@@ -50,7 +50,7 @@ async def main():
     print("Starting bot...")
     logging.basicConfig(level=logging.INFO)
 
-    from message.headers.handlers import bot
+    from railway.headers.handlers import bot
     dp = Dispatcher()
     await bot.set_my_commands(commands=commands)
     logger.info("Buyruqlar o'rnatildi.")
